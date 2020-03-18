@@ -1,7 +1,7 @@
 import pygame
 
 pygame.init()
-
+#teste
 
 def draw_playfield():
     width_horizon = 20
