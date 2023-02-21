@@ -6,4 +6,4 @@ My first contact with [pygame](https://www.pygame.org/news) library!
 
 ### Running Tests
 
-[repl.it/@heitormp/tic-tac-toe-pygame-2](repl.it/@heitormp/tic-tac-toe-pygame-2)
+[https://replit.com/@heitormp/tic-tac-toe-pygame-2](https://replit.com/@heitormp/tic-tac-toe-pygame-2)
